@@ -45,6 +45,3 @@ Use Case: Stop wasting your best hours on email. Block your peak performance win
 * iOS 16 or later
 * Scriptable App (Free)
 * No external dependencies
-
-## 📄 License
-This project is open source and available under the [MIT License](LICENSE).
