@@ -5,7 +5,7 @@ A collection of premium, data-driven home screen widgets for iOS, built with Jav
 
 These widgets are designed to visualize **time scarcity**, **productivity density**, and **device telemetry** in real-time. No external API keys required. Zero configuration.
 
-## 📦 The Collection
+##  The Collection
 
 ### 1. Orbital HUD (`orbital-hud.js`)
 A heads-up display inspired by the Apple Watch Ultra.
@@ -28,7 +28,7 @@ Use Case: Stop wasting your best hours on email. Block your peak performance win
 
 ---
 
-## 🚀 Installation Guide (30 Seconds)
+##  Installation Guide (30 Seconds)
 
 1.  **Get Scriptable:** Download the free [Scriptable App](https://apps.apple.com/us/app/scriptable/id1405459188) from the App Store.
 2.  **Copy Code:** Open the file in the `widgets/` folder above and copy the code.
